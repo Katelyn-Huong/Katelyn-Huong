@@ -38,13 +38,8 @@ A passionate software developer who made the exciting transition from preschool 
 </p>
 
 
-
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-katelynngo25@gmail.com
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-https://www.linkedin.com/in/katelyn-ngo/
-
+📬 How to Reach Me: 
+<p> <a href="mailto:katelynngo25@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/katelyn-ngo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 
 
 
